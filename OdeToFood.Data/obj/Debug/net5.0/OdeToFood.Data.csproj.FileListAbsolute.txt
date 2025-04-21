@@ -1,0 +1,4 @@
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.csproj.CoreCompileInputs.cache

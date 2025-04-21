@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157536E3-3CBE-42B7-8326-1B5A4A5FE595}|OdeToFood.Web\\OdeToFood.Web.csproj|C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\odetofood.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157536E3-3CBE-42B7-8326-1B5A4A5FE595}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157536E3-3CBE-42B7-8326-1B5A4A5FE595}|OdeToFood.Web\\OdeToFood.Web.csproj|C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\odetofood.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157536E3-3CBE-42B7-8326-1B5A4A5FE595}|OdeToFood.Web\\OdeToFood.Web.csproj|solutionrelative:odetofood.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|c:\\users\\mgabiou\\source\\repos\\odetofoodmvc\\odetofood\\odetofood.data\\services\\inmemoryrestaurantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|solutionrelative:odetofood.data\\services\\inmemoryrestaurantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|c:\\users\\mgabiou\\source\\repos\\odetofoodmvc\\odetofood\\odetofood.data\\models\\cruisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|solutionrelative:odetofood.data\\models\\cruisine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|c:\\users\\mgabiou\\source\\repos\\odetofoodmvc\\odetofood\\odetofood.data\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|solutionrelative:odetofood.data\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|c:\\users\\mgabiou\\source\\repos\\odetofoodmvc\\odetofood\\odetofood.data\\services\\irestaurantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036178D7-8154-4B98-A61F-4FDA1E7E3B7E}|OdeToFood.Data\\OdeToFood.Data.csproj|solutionrelative:odetofood.data\\services\\irestaurantdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryRestaurantData.cs",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Services\\InMemoryRestaurantData.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Data\\Services\\InMemoryRestaurantData.cs",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Services\\InMemoryRestaurantData.cs",
+              "RelativeToolTip": "OdeToFood.Data\\Services\\InMemoryRestaurantData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:10:47.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRestaurantData.cs",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Services\\IRestaurantData.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Data\\Services\\IRestaurantData.cs",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Services\\IRestaurantData.cs",
+              "RelativeToolTip": "OdeToFood.Data\\Services\\IRestaurantData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:06:48.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cruisine.cs",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Models\\Cruisine.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Data\\Models\\Cruisine.cs",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Models\\Cruisine.cs",
+              "RelativeToolTip": "OdeToFood.Data\\Models\\Cruisine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:55:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Data\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Data\\Models\\Restaurant.cs",
+              "RelativeToolTip": "OdeToFood.Data\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:53:30.638Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OdeToFood.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T16:20:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OdeToFood.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mgabiou\\source\\repos\\odetofoodmvc\\OdeToFood\\OdeToFood.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OdeToFood.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:37:23.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

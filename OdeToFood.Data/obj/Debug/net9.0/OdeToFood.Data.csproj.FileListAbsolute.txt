@@ -1,0 +1,11 @@
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\net9.0\OdeToFood.Data.deps.json
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\net9.0\OdeToFood.Data.dll
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\net9.0\OdeToFood.Data.pdb
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.dll
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\refint\OdeToFood.Data.dll
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\OdeToFood.Data.pdb
+C:\Users\mgabiou\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\net9.0\ref\OdeToFood.Data.dll
