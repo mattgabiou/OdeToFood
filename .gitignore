@@ -18,5 +18,10 @@ bld/
 
 #Visual Studio
 .vs/
-/.vs/OdeToFood/v17/.suo
-/.vs/OdeToFood/v17/DocumentLayout.backup.json
+/.vs/
+# /.vs/OdeToFood/v17/.suo
+# /.vs/OdeToFood/v17/DocumentLayout.backup.json
+# /.vs/OdeToFood/v17/DocumentLayout.json
+# /.vs/OdeToFood/config/applicationhost.config
+# /.vs/OdeToFood/DesignTimeBuild/.dtbcache.v2
+# /.vs/OdeToFood/v17/.futdcache.v2
