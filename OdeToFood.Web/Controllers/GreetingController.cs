@@ -16,7 +16,7 @@ namespace OdeToFood.Web.Controllers
             var model = new GreetingViewModel(); // The controller builds the model
             model.Name = name ?? "no name";
             model.Message = ConfigurationManager.AppSettings["message"]; // Model with this message from the global.config file
-            return View(model); // The controller chooses this view (Index under the Views folder) to render, passes it the model, and returns it to the web browser
+            return View(model); // The controller chooses this Razor view (Index under the Views folder) to render, passes it the model, and returns it to the web browser
         }
     }
 }
