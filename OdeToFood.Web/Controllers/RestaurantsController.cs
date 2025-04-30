@@ -48,7 +48,19 @@ namespace OdeToFood.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Restaurant restaurant) // Model binding
         {
-            db.Add(restaurant);
+            // low level way to check for errors. Not optimal
+            //if (String.IsNullOrEmpty(restaurant.Name))
+            //{
+            //    ModelState.AddModelError(nameof(restaurant.Name), "The name is required");
+            //}
+
+
+            if (ModelState.IsValid) // Only returns true if there are NO model errors
+            {
+                db.Add(restaurant);
+                return View();
+            }
+
             return View();
         }
 
