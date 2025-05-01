@@ -58,7 +58,9 @@ namespace OdeToFood.Web.Controllers
             if (ModelState.IsValid) // Only returns true if there are NO model errors
             {
                 db.Add(restaurant);
-                return View();
+
+                // send the user to the place that shows you the deatails of that resteraunt
+                return RedirectToAction("Details", new {id = restaurant.Id}); 
             }
 
             return View();
