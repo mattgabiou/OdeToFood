@@ -12,10 +12,12 @@ namespace OdeToFood.Data.Models
     {
         public int Id { get; set; }
 
+
         [Required]
         //[RegularExpression("")]
         //[Range(0, int.MaxValue)]
         public string Name { get; set; }
+
 
         //[DisplayFormat(DataFormatString = "text")]
         //[DisplayFormat(NullDisplayText = "goo")]
