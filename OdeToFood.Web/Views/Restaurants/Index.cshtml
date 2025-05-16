@@ -2,7 +2,8 @@
 
 @{
     ViewBag.Title = "Index";
-    Layout = "_TestLayout.cshtml";
+    //Layout = "_TestLayout.cshtml";
+    //Layout = null;
 }
 
 <h2>Index</h2>
@@ -12,7 +13,15 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-<table class="table">
+
+
+@foreach(var item in Model)
+{
+    @Html.Partial("_RestaurantSummary", item)
+}
+
+
+@*<table class="table">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.Name)
@@ -33,4 +42,9 @@
     </tr>
 }
 
-</table>
+</table>*@
+
+@section footer 
+    {
+    <div>This is custom footer</div>
+    }
